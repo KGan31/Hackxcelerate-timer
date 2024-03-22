@@ -8,7 +8,6 @@ const App = () => {
   return (
     <div className="app-container">
       <div className="background-image"></div>
-      
       <CountdownTimer />
     </div>
   );
